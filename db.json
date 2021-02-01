@@ -1,48 +1,58 @@
 {
    "reports":[
       {
-         "id":1,
-         "name":"Efektywność pracowników",
-         "table":[
-            {
-               "name":"Test1",
-               "age":21,
-               "description":"Good"
-            },
-            {
-               "name":"Test2",
-               "age":22,
-               "description":"Very Good"
-            },
-            {
-               "name":"Test3",
-               "age":23,
-               "description":"Bad"
-            }
-         ]
+         "id":"868b8032-6494-11eb-ae93-0242ac130002",
+         "title":"Najpopularniejsze systemy mobilne",
+         "table":{
+            "id":"35e043a0-649b-11eb-ae93-0242ac130002",
+            "fields":[
+               {
+                  "Nazwa":"Android",
+                  "Udział w rynku":84.8,
+                  "Ilość dostępnych aplikacji":3000000,
+                  "Średnia cena urządzenia":775.84
+               },
+               {
+                  "Imię":"iOS",
+                  "Udział w rynku":15.2,
+                  "Ilość dostępnych aplikacji":2000000,
+                  "Średnia cena urządzenia":2428.23
+               }
+            ]
+         }
       },
-     
-           {
-         "id":2,
-         "name":"Drugi raport",
-         "table":[
-            {
-               "name":"Test4",
-               "age":24,
-               "description":"Good"
-            },
-            {
-               "name":"Test5",
-               "age":25,
-               "description":"Very Good"
-            },
-            {
-               "name":"Mikołaj6",
-               "age":26,
-               "description":"Bad"
-            }
-         ]
+      {
+         "id":"6bd4140e-649c-11eb-ae93-0242ac130002",
+         "title":"Najpopularniejsze aplikacje na świecie",
+         "table":{
+            "id":"3cbf3690c-649c-11eb-ae93-0242ac130002",
+            "fields":[
+               {
+                  "Nazwa":"Facebook",
+                  "Wartość rynkowa (mld dol.)":147.190,
+                  "Liczba użytkowników":2500000000,
+                  "Średni czas korzystania dziennie (min.)":23
+               },
+               {
+                  "Nazwa":"WhatsApp",
+                  "Wartość rynkowa (mld dol.)":34.85,
+                  "Liczba użytkowników":1000000000,
+                  "Średni czas korzystania dziennie (min.)":17
+               },
+               {
+                  "Nazwa":"TikTok",
+                  "Wartość rynkowa (mld dol.)":54.50,
+                  "Liczba użytkowników":1400000000,
+                  "Średni czas korzystania dziennie (min.)":19
+               },
+               {
+                  "Nazwa":"Instagram",
+                  "Wartość rynkowa (mld dol.)":90.045,
+                  "Liczba użytkowników":2000000000,
+                  "Średni czas korzystania dziennie (min.)":21
+               }
+            ]
+         }
       }
    ]
 }
-
