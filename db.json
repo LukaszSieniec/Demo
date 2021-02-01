@@ -1,22 +1,16 @@
 {
-   "releases":[
-      {
-         "id":"1",
-         "ERPcommand":"ERP",
-         "WMScommand":"WMS",
-         "contractor":"kontrahent"
-      },
-      {
-         "id":"2",
-         "ERPcommand":"ERP",
-         "WMScommand":"WMS",
-         "contractor":"kontrahent"
-      },
-      {
-         "id":"3",
-         "ERPcommand":"ERP",
-         "WMScommand":"WMS",
-         "contractor":"kontrahent"
-      }
-   ]
+  "table": [
+    {
+      "name": "Mikołaj",
+      "age": 21
+    },
+    {
+      "name": "Krzysztof",
+      "description": 22"
+    },
+    {
+      "name": "Krzysztof",
+      "description": 22"
+    }
+  ]
 }
