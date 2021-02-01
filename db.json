@@ -1,16 +1,48 @@
 {
-  "tags": [
-    {
-      "name": "dart",
-      "quantity": 12
-    },
-    {
-      "name": "flutter",
-      "quantity": 25
-    },
-    {
-      "name": "json",
-      "quantity": 8
-    }
-  ]
+   "raports":[
+      {
+         "id":1,
+         "name":"Efektywność pracowników",
+         "table":[
+            {
+               "name":"Test1",
+               "age":21,
+               "description":"Good"
+            },
+            {
+               "name":"Test2",
+               "age":22,
+               "description":"Very Good"
+            },
+            {
+               "name":"Test3",
+               "age":23,
+               "description":"Bad"
+            }
+         ]
+      },
+     
+           {
+         "id":2,
+         "name":"Drugi raport",
+         "table":[
+            {
+               "name":"Test4",
+               "age":24,
+               "description":"Good"
+            },
+            {
+               "name":"Test5",
+               "age":25,
+               "description":"Very Good"
+            },
+            {
+               "name":"Mikołaj6",
+               "age":26,
+               "description":"Bad"
+            }
+         ]
+      }
+   ]
 }
+
