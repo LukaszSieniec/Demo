@@ -1,16 +1,16 @@
 {
-  "table": [
+  "tags": [
     {
-      "name": "Mikołaj",
-      "age": 21
+      "name": "dart",
+      "quantity": 12
     },
     {
-      "name": "Krzysztof",
-      "description": 22
+      "name": "flutter",
+      "quantity": 25
     },
     {
-      "name": "Krzysztof",
-      "description": 22
+      "name": "json",
+      "quantity": 8
     }
   ]
 }
