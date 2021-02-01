@@ -8,15 +8,15 @@
             "fields":[
                {
                   "Nazwa":"Android",
-                  "Udział w rynku":84.8,
+                  "Udział w rynku [%]":84.8,
                   "Ilość dostępnych aplikacji":3000000,
-                  "Średnia cena urządzenia":775.84
+                  "Średnia cena urządzenia [dol.]":208
                },
                {
                   "Imię":"iOS",
-                  "Udział w rynku":15.2,
+                  "Udział w rynku [%]":15.2,
                   "Ilość dostępnych aplikacji":2000000,
-                  "Średnia cena urządzenia":2428.23
+                  "Średnia cena urządzenia [dol.]":651
                }
             ]
          }
