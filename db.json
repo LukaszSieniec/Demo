@@ -18,7 +18,77 @@
                   "Ilość dostępnych aplikacji":2000000,
                   "Średnia cena urządzenia [dol.]":651
                }
-            ]
+            ],
+            "barGraph":{
+               "id":"273d2452-64dd-11eb-ae93-0242ac130002",
+               "title":"Ilość dostępnych aplikacji",
+               "data":[
+                  {
+                     "label":"Android",
+                     "value":"3000000"
+                  },
+                  {
+                     "label":"iOS",
+                     "value":"2000000"
+                  }
+               ]
+            },
+            "lineGraph":{
+               "id":"6c86c87c-64df-11eb-ae93-0242ac130002",
+               "title":"Wzrost dostępnych aplikacji",
+               "category":[
+                  {
+                     "legendTitle":"Android",
+                     "data":[
+                        {
+                           "x":2016,
+                           "y":1500000
+                        },
+                        {
+                           "x":2017,
+                           "y":1700000
+                        },
+                        {
+                           "x":2018,
+                           "y":200000
+                        },
+                        {
+                           "x":2019,
+                           "y":2400000
+                        },
+                        {
+                           "x":2020,
+                           "y":3000000
+                        }
+                     ]
+                  },
+                  {
+                     "legendTitle":"iOS",
+                     "data":[
+                        {
+                           "x":2016,
+                           "y":1000000
+                        },
+                        {
+                           "x":2017,
+                           "y":1200000
+                        },
+                        {
+                           "x":2018,
+                           "y":1300000
+                        },
+                        {
+                           "x":2019,
+                           "y":1700000
+                        },
+                        {
+                           "x":2020,
+                           "y":2000000
+                        }
+                     ]
+                  }
+               ]
+            }
          }
       },
       {
