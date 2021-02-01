@@ -1,6 +1,22 @@
 {
-   "id":"1",
-   "ERPcommand":"ERP",
-   "WMScommand":"WMS",
-   "contractor":"kontrahent"
+   "releases":[
+      {
+         "id":"1",
+         "ERPcommand":"ERP",
+         "WMScommand":"WMS",
+         "contractor":"kontrahent"
+      },
+      {
+         "id":"2",
+         "ERPcommand":"ERP",
+         "WMScommand":"WMS",
+         "contractor":"kontrahent"
+      },
+      {
+         "id":"3",
+         "ERPcommand":"ERP",
+         "WMScommand":"WMS",
+         "contractor":"kontrahent"
+      }
+   ]
 }
