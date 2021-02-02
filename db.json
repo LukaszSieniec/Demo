@@ -21,7 +21,7 @@
             ],
             "barGraph":{
                "id":"273d2452-64dd-11eb-ae93-0242ac130002",
-               "title":"Ilość dostępnych aplikacji",
+               "legendTitle":"Ilość dostępnych aplikacji",
                "barGraphData":[
                   {
                      "label":"Android",
