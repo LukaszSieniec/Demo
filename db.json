@@ -88,6 +88,20 @@
                      ]
                   }
                ]
+            },
+            "pieGraph":{
+               "id":"216ac0688-6552-11eb-ae93-0242ac130002",
+               "title":"Udział w rynku",
+               "pieGraphData":[
+                  {
+                     "label":"Android",
+                     "value":84.8
+                  },
+                  {
+                     "label":"iOS",
+                     "value":15.2
+                  }
+               ]
             }
          }
       },
