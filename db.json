@@ -4,7 +4,6 @@
          "id":"868b8032-6494-11eb-ae93-0242ac130002",
          "title":"Najpopularniejsze systemy mobilne",
          "table":{
-            "id":"35e043a0-649b-11eb-ae93-0242ac130002",
             "fields":[
                {
                   "Nazwa":"Android",
@@ -21,7 +20,6 @@
             ]
          },
          "barGraph":{
-            "id":"273d2452-64dd-11eb-ae93-0242ac130002",
             "legendTitle":"Ilość dostępnych aplikacji",
             "barGraphData":[
                {
@@ -35,7 +33,6 @@
             ]
          },
          "lineGraph":{
-            "id":"6c86c87c-64df-11eb-ae93-0242ac130002",
             "title":"Wzrost dostępnych aplikacji",
             "category":[
                {
@@ -91,7 +88,6 @@
             ]
          },
          "pieGraph":{
-            "id":"216ac0688-6552-11eb-ae93-0242ac130002",
             "title":"Udział w rynku",
             "pieGraphData":[
                {
@@ -109,7 +105,6 @@
          "id":"6bd4140e-649c-11eb-ae93-0242ac130002",
          "title":"Najpopularniejsze aplikacje na świecie",
          "table":{
-            "id":"3cbf3690c-649c-11eb-ae93-0242ac130002",
             "fields":[
                {
                   "Nazwa":"Facebook",
