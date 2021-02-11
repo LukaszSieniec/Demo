@@ -6,6 +6,9 @@
          "components":[
             {
                "type":"Tabela",
+               "metadata":{
+                  
+               },
                "fields":[
                   {
                      "Nazwa":"Android",
@@ -110,34 +113,40 @@
       {
          "id":"6bd4140e-649c-11eb-ae93-0242ac130002",
          "title":"Najpopularniejsze aplikacje na świecie",
-         "table":{
-            "fields":[
-               {
-                  "Nazwa":"Facebook",
-                  "Wartość rynkowa (mld dol.)":147.190,
-                  "Liczba użytkowników":2500000000,
-                  "Średni czas korzystania dziennie (min.)":23
+         "components":[
+            {
+               "type":"Tabela",
+               "metadata":{
+                  
                },
-               {
-                  "Nazwa":"WhatsApp",
-                  "Wartość rynkowa (mld dol.)":34.85,
-                  "Liczba użytkowników":1000000000,
-                  "Średni czas korzystania dziennie (min.)":17
-               },
-               {
-                  "Nazwa":"TikTok",
-                  "Wartość rynkowa (mld dol.)":54.50,
-                  "Liczba użytkowników":1400000000,
-                  "Średni czas korzystania dziennie (min.)":19
-               },
-               {
-                  "Nazwa":"Instagram",
-                  "Wartość rynkowa (mld dol.)":90.045,
-                  "Liczba użytkowników":2000000000,
-                  "Średni czas korzystania dziennie (min.)":21
-               }
-            ]
-         }
+               "fields":[
+                  {
+                     "Nazwa":"Facebook",
+                     "Wartość rynkowa (mld dol.)":147.190,
+                     "Liczba użytkowników":2500000000,
+                     "Średni czas korzystania dziennie (min.)":23
+                  },
+                  {
+                     "Nazwa":"WhatsApp",
+                     "Wartość rynkowa (mld dol.)":34.85,
+                     "Liczba użytkowników":1000000000,
+                     "Średni czas korzystania dziennie (min.)":17
+                  },
+                  {
+                     "Nazwa":"TikTok",
+                     "Wartość rynkowa (mld dol.)":54.50,
+                     "Liczba użytkowników":1400000000,
+                     "Średni czas korzystania dziennie (min.)":19
+                  },
+                  {
+                     "Nazwa":"Instagram",
+                     "Wartość rynkowa (mld dol.)":90.045,
+                     "Liczba użytkowników":2000000000,
+                     "Średni czas korzystania dziennie (min.)":21
+                  }
+               ]
+            }
+         ]
       }
    ]
 }
