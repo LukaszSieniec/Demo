@@ -6,9 +6,7 @@
          "components":[
             {
                "type":"Tabela",
-               "metadata":{
-                  
-               },
+               "metadata":{},
                "fields":[
                   {
                      "Nazwa":"Android",
@@ -116,9 +114,7 @@
          "components":[
             {
                "type":"Tabela",
-               "metadata":{
-                  
-               },
+               "metadata":{},
                "fields":[
                   {
                      "Nazwa":"Facebook",
