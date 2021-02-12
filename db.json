@@ -6,6 +6,9 @@
          "components":[
             {
                "type":"Tabela",
+               "metadata":{
+                  "data":"uniqueData"
+               },
                "fields":[
                   {
                      "Nazwa":"Android",
@@ -23,6 +26,9 @@
             },
             {
                "type":"Wykres słupkowy",
+               "metadata":{
+                  "data":"uniqueData"
+               },
                "legendTitle":"Ilość dostępnych aplikacji",
                "barGraphData":[
                   {
@@ -37,6 +43,9 @@
             },
             {
                "type":"Wykres liniowy",
+               "metadata":{
+                  "data":"uniqueData"
+               },
                "title":"Wzrost dostępnych aplikacji",
                "category":[
                   {
@@ -91,6 +100,9 @@
                   },
                   {
                      "type":"Wykres kołowy",
+                     "metadata":{
+                        "data":"uniqueData"
+                     },
                      "title":"Udział w rynku",
                      "pieGraphData":[
                         {
@@ -113,10 +125,13 @@
          "components":[
             {
                "type":"Tabela",
+               "metadata":{
+                  "data":"uniqueData"
+               },
                "fields":[
                   {
                      "Nazwa":"Facebook",
-                     "Wartość rynkowa (mld dol.)":147.190,
+                     "Wartość rynkowa (mld dol.)":147.19,
                      "Liczba użytkowników":2500000000,
                      "Średni czas korzystania dziennie (min.)":23
                   },
@@ -128,7 +143,7 @@
                   },
                   {
                      "Nazwa":"TikTok",
-                     "Wartość rynkowa (mld dol.)":54.50,
+                     "Wartość rynkowa (mld dol.)":54.5,
                      "Liczba użytkowników":1400000000,
                      "Średni czas korzystania dziennie (min.)":19
                   },
