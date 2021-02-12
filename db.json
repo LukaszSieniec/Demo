@@ -97,23 +97,23 @@
                            "value":2000000
                         }
                      ]
+                  }
+               ]
+            },
+            {
+               "type":"Wykres kołowy",
+               "metadata":{
+                  "data":"uniqueData"
+               },
+               "title":"Udział w rynku",
+               "pieGraphData":[
+                  {
+                     "label":"Android",
+                     "value":84.8
                   },
                   {
-                     "type":"Wykres kołowy",
-                     "metadata":{
-                        "data":"uniqueData"
-                     },
-                     "title":"Udział w rynku",
-                     "pieGraphData":[
-                        {
-                           "label":"Android",
-                           "value":84.8
-                        },
-                        {
-                           "label":"iOS",
-                           "value":15.2
-                        }
-                     ]
+                     "label":"iOS",
+                     "value":15.2
                   }
                ]
             }
