@@ -3,141 +3,144 @@
       {
          "id":"868b8032-6494-11eb-ae93-0242ac130002",
          "title":"Najpopularniejsze systemy mobilne",
-         "table":{
-            "name": "Tabela",
-            "metadata": {},
-            "fields":[
-               {
-                  "Nazwa":"Android",
-                  "Udział w rynku [%]":84.8,
-                  "Ilość dostępnych aplikacji":3000000,
-                  "Średnia cena urządzenia [dol.]":208
-               },
-               {
-                  "Nazwa":"iOS",
-                  "Udział w rynku [%]":15.2,
-                  "Ilość dostępnych aplikacji":2000000,
-                  "Średnia cena urządzenia [dol.]":651
-               }
-            ]
-         },
-         "barGraph":{
-            "name": "Wykres słupkowy",
-            "legendTitle":"Ilość dostępnych aplikacji",
-            "barGraphData":[
-               {
-                  "label":"Android",
-                  "value":"3000000"
-               },
-               {
-                  "label":"iOS",
-                  "value":"2000000"
-               }
-            ]
-         },
-         "lineGraph":{
-            "name": "Wykres liniowy",
-            "title":"Wzrost dostępnych aplikacji",
-            "category":[
-               {
-                  "legendTitle":"Android",
-                  "lineGraphData":[
-                     {
-                        "label":2016,
-                        "value":1500000
-                     },
-                     {
-                        "label":2017,
-                        "value":1700000
-                     },
-                     {
-                        "label":2018,
-                        "value":200000
-                     },
-                     {
-                        "label":2019,
-                        "value":2400000
-                     },
-                     {
-                        "label":2020,
-                        "value":3000000
-                     }
-                  ]
-               },
-               {
-                  "legendTitle":"iOS",
-                  "lineGraphData":[
-                     {
-                        "label":2016,
-                        "value":1000000
-                     },
-                     {
-                        "label":2017,
-                        "value":1200000
-                     },
-                     {
-                        "label":2018,
-                        "value":1300000
-                     },
-                     {
-                        "label":2019,
-                        "value":1700000
-                     },
-                     {
-                        "label":2020,
-                        "value":2000000
-                     }
-                  ]
-               }
-            ]
-         },
-         "pieGraph":{
-            "name": "Wykres kołowy",
-            "title":"Udział w rynku",
-            "pieGraphData":[
-               {
-                  "label":"Android",
-                  "value":84.8
-               },
-               {
-                  "label":"iOS",
-                  "value":15.2
-               }
-            ]
-         }
+         "components":[
+            {
+               "type":"Tabela",
+               "fields":[
+                  {
+                     "Nazwa":"Android",
+                     "Udział w rynku [%]":84.8,
+                     "Ilość dostępnych aplikacji":3000000,
+                     "Średnia cena urządzenia [dol.]":208
+                  },
+                  {
+                     "Nazwa":"iOS",
+                     "Udział w rynku [%]":15.2,
+                     "Ilość dostępnych aplikacji":2000000,
+                     "Średnia cena urządzenia [dol.]":651
+                  }
+               ]
+            },
+            {
+               "type":"Wykres słupkowy",
+               "legendTitle":"Ilość dostępnych aplikacji",
+               "barGraphData":[
+                  {
+                     "label":"Android",
+                     "value":"3000000"
+                  },
+                  {
+                     "label":"iOS",
+                     "value":"2000000"
+                  }
+               ]
+            },
+            {
+               "type":"Wykres liniowy",
+               "title":"Wzrost dostępnych aplikacji",
+               "category":[
+                  {
+                     "legendTitle":"Android",
+                     "lineGraphData":[
+                        {
+                           "label":2016,
+                           "value":1500000
+                        },
+                        {
+                           "label":2017,
+                           "value":1700000
+                        },
+                        {
+                           "label":2018,
+                           "value":200000
+                        },
+                        {
+                           "label":2019,
+                           "value":2400000
+                        },
+                        {
+                           "label":2020,
+                           "value":3000000
+                        }
+                     ]
+                  },
+                  {
+                     "legendTitle":"iOS",
+                     "lineGraphData":[
+                        {
+                           "label":2016,
+                           "value":1000000
+                        },
+                        {
+                           "label":2017,
+                           "value":1200000
+                        },
+                        {
+                           "label":2018,
+                           "value":1300000
+                        },
+                        {
+                           "label":2019,
+                           "value":1700000
+                        },
+                        {
+                           "label":2020,
+                           "value":2000000
+                        }
+                     ]
+                  },
+                  {
+                     "type":"Wykres kołowy",
+                     "title":"Udział w rynku",
+                     "pieGraphData":[
+                        {
+                           "label":"Android",
+                           "value":84.8
+                        },
+                        {
+                           "label":"iOS",
+                           "value":15.2
+                        }
+                     ]
+                  }
+               ]
+            }
+         ]
       },
       {
          "id":"6bd4140e-649c-11eb-ae93-0242ac130002",
          "title":"Najpopularniejsze aplikacje na świecie",
-         "table":{
-            "metadata": {},
-            "fields":[
-               {
-                  "Nazwa":"Facebook",
-                  "Wartość rynkowa (mld dol.)":147.190,
-                  "Liczba użytkowników":2500000000,
-                  "Średni czas korzystania dziennie (min.)":23
-               },
-               {
-                  "Nazwa":"WhatsApp",
-                  "Wartość rynkowa (mld dol.)":34.85,
-                  "Liczba użytkowników":1000000000,
-                  "Średni czas korzystania dziennie (min.)":17
-               },
-               {
-                  "Nazwa":"TikTok",
-                  "Wartość rynkowa (mld dol.)":54.50,
-                  "Liczba użytkowników":1400000000,
-                  "Średni czas korzystania dziennie (min.)":19
-               },
-               {
-                  "Nazwa":"Instagram",
-                  "Wartość rynkowa (mld dol.)":90.045,
-                  "Liczba użytkowników":2000000000,
-                  "Średni czas korzystania dziennie (min.)":21
-               }
-            ]
-         }
+         "components":[
+            {
+               "type":"Tabela",
+               "fields":[
+                  {
+                     "Nazwa":"Facebook",
+                     "Wartość rynkowa (mld dol.)":147.190,
+                     "Liczba użytkowników":2500000000,
+                     "Średni czas korzystania dziennie (min.)":23
+                  },
+                  {
+                     "Nazwa":"WhatsApp",
+                     "Wartość rynkowa (mld dol.)":34.85,
+                     "Liczba użytkowników":1000000000,
+                     "Średni czas korzystania dziennie (min.)":17
+                  },
+                  {
+                     "Nazwa":"TikTok",
+                     "Wartość rynkowa (mld dol.)":54.50,
+                     "Liczba użytkowników":1400000000,
+                     "Średni czas korzystania dziennie (min.)":19
+                  },
+                  {
+                     "Nazwa":"Instagram",
+                     "Wartość rynkowa (mld dol.)":90.045,
+                     "Liczba użytkowników":2000000000,
+                     "Średni czas korzystania dziennie (min.)":21
+                  }
+               ]
+            }
+         ]
       }
    ]
 }
