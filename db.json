@@ -2,7 +2,7 @@
    "reports":[
       {
          "id":"868b8032-6494-11eb-ae93-0242ac130002",
-         "title":"First report",
+         "title":"Najpopularniejsze systemy mobilne",
          "components":[
             {
                "type":"Tabela",
@@ -121,7 +121,7 @@
       },
       {
          "id":"6bd4140e-649c-11eb-ae93-0242ac130002",
-         "title":"Second report",
+         "title":"Najpopularniejsze aplikacje na świecie",
          "components":[
             {
                "type":"Tabela",
