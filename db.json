@@ -33,11 +33,11 @@
                "barGraphData":[
                   {
                      "label":"Android",
-                     "value":"3000000"
+                     "value":3000000
                   },
                   {
                      "label":"iOS",
-                     "value":"2000000"
+                     "value":2000000
                   }
                ]
             },
