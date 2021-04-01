@@ -116,6 +116,12 @@
                      "value":15.2
                   }
                ]
+            },
+            {
+               "type":"Zegar",
+               "metadata":{
+                  "data":"uniqueData"
+               },
             }
          ]
       },
